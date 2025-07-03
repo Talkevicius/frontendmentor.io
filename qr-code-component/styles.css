@@ -55,6 +55,7 @@ body {
         font-size:22px;
         line-height: 120%;
         font-weight: 700;
+        color: var(--Slate-900);
     }
 
     & p{
@@ -62,6 +63,7 @@ body {
         line-height: 140%;
         letter-spacing: 0.2px;
         font-weight: 400;
+        color: var(--Slate-500);
     }
 }
 
